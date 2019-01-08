@@ -21,7 +21,7 @@ Welcome to torauth
     :target: https://pypi.python.org/pypi/torauth/
 
 
-An authentication, registration, account management for Tornado.
+An authentication, registration, account management for `TorStack`_ of `Tornado`_.
 
 
 Installing
@@ -32,3 +32,8 @@ Install and update using `pip`_:
 .. code-block:: text
 
     pip install -U torauth
+
+
+.. _TorStack: https://github.com/longniao/torstack
+.. _Tornado: http://www.tornadoweb.org
+.. _pip: https://pip.pypa.io/en/stable/quickstart/
